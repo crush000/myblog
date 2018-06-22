@@ -1,3 +1,1 @@
-# mybolog
-# myblog
-#genxinguohou
+# myblog version 1
